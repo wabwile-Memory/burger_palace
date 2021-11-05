@@ -16,3 +16,28 @@
 .container>.navbar{
     float:right;
 }
+.navbar {
+
+    float: right;
+    text-decoration: none;
+    display: flex;
+    font-size: x-large;
+    color: black;
+    padding: 40px;
+    margin-right: 20px;
+    justify-content: space-between;
+}
+li{
+    justify-content: space-between;
+}
+.home {
+    margin-right: 20px;
+    padding: 20px;
+}
+
+.firstimage {
+    margin-bottom: 80px;
+    padding: 40px;
+  height: min-content;
+  
+}
