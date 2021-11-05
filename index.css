@@ -282,5 +282,21 @@ li{
         br {
             color: rgb(255, 196, 0);
         }
+        .decker {
+            float: right;
+            height: 500px;
+            padding-right: 150px;
+        }
+        
+        .mobileapps {
+            display: flex;
+            padding: 100px;
+            background-color: #F6B400;
+        }
+        
+        .google {
+            padding: 50px;
+            margin-left: 20px;
+        }
    
     
