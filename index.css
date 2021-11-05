@@ -332,5 +332,14 @@ li{
             height: 50px;
             padding: 50px;
         }
+        #submit {
+            background-color: #F6B400;
+            border-style: none;
+            padding: 8px;
+        }
+        
+        #fname {
+            padding: 8px;
+        }
    
     
