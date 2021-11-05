@@ -3,3 +3,16 @@
     font-family: "poppins";
 
 }
+.bar{
+    background: linear-gradient(-76deg, rgb(255, 166, 0) 50%, white 50%);
+    
+}
+.top{
+    display: inline-flex;
+    float:right;
+    justify-content: space-around;
+    padding-right: 10px;
+}
+.container>.navbar{
+    float:right;
+}
