@@ -312,6 +312,25 @@ li{
             margin-right: 60px;
             align-items: center;
         
+        }.fist{
+            display: flex;
+            font-family: "helvetica";
+            margin-right: 60px;
+            align-items: center;
+            
+        
+        }
+        .sitemap {
+            margin-right: 60px;
+        }
+        
+        .Subscriber {
+            margin-right: 20px;
+        }
+        
+        .form {
+            height: 50px;
+            padding: 50px;
         }
    
     
