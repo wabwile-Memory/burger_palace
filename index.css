@@ -341,5 +341,9 @@ li{
         #fname {
             padding: 8px;
         }
+        .copyright{
+            display: flex;
+            justify-content: space-between;
+        }
    
     
